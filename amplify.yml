@@ -8,7 +8,7 @@ frontend:
       commands:
         - echo "Build step is not needed"
   artifacts:
-    baseDirectory: skillrank2
+    baseDirectory: public
     files:
       - '**/*'
   cache:
